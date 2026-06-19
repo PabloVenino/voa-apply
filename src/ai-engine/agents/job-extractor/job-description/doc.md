@@ -1,0 +1,1 @@
+# Scans the complete job description, understanding which technologies they might require, infrastructure, compensation, anything related to the job description

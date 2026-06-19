@@ -1,0 +1,2 @@
+# Scrapes the given company - searchs for its product, what it does, so the user can study it before the interview
+# maybe we need another input from the user if he already knows if their allocating them in a client of the outsourcing company - or ask to confirm with them in the running stage - or even think about implement a overriding feature of this. or dont add this feature.

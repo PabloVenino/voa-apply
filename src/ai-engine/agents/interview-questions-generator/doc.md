@@ -1,0 +1,1 @@
+# Creates a set of pre-defined questions that the HR / Technical Manager might ask based solely on the job description and industry that the Company is.
