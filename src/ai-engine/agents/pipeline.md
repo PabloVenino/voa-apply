@@ -17,3 +17,79 @@
 ## 5.2 Cover Letter Generator
 ## 5.3 Interview Questions Generator
 ### They run in parallel
+
+
+
+Upload CV
+        │
+        ▼
+Document Parser
+        │
+        ▼
+Candidate Analyzer
+    ├── Skills
+    ├── Experience
+    ├── Education
+    ├── Projects
+    └── Certifications
+
+Job Input
+        │
+        ▼
+Job Extractor
+    ├── Company
+    ├── Technologies
+    ├── Responsibilities
+    ├── Soft Skills
+    └── Seniority
+
+                │
+                ▼
+
+ATS Matcher
+        │
+        ▼
+
+Gap Analyzer
+        │
+        ▼
+
+Planning Agent
+
+Creates a plan instead of rewriting immediately
+
+Example
+
+- Move AWS higher
+- Rewrite SQL bullets
+- Mention Kubernetes project
+- Remove irrelevant internship
+
+        │
+        ▼
+
+Generators (parallel)
+
+CV Generator
+
+Cover Letter
+
+Interview Questions
+
+Change Log
+
+        │
+        ▼
+
+Verifier Agent
+
+        │
+        ▼
+
+Output Formatter
+
+DOCX
+
+PDF
+
+Markdown
